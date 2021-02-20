@@ -19,5 +19,6 @@ int main()
        loss=cp-sp;
        printf("loss=%f",loss);
     }
+    printf("\nhere is the result of profit and loss:");
     return 0;
 }
